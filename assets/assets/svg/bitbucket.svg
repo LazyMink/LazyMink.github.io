@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.421" height="56.13" viewBox="0 0 62.421 56.13">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.086" y1="0.138" x2="0.469" y2="0.788" gradientUnits="objectBoundingBox">
+      <stop offset="0.18" stop-color="#0052cc"/>
+      <stop offset="1" stop-color="#2684ff"/>
+    </linearGradient>
+  </defs>
+  <g id="bitbucket" transform="translate(0.025 -6.26)">
+    <g id="Blue">
+      <path id="Path_15" data-name="Path 15" d="M24.7,43.51H37.75L40.9,25.12H21.23Z" fill="none"/>
+      <path id="Path_16" data-name="Path 16" d="M2,6.26A2,2,0,0,0,0,8.58L8.49,60.12a2.72,2.72,0,0,0,2.66,2.27H51.88a2,2,0,0,0,2-1.68L62.37,8.59a2,2,0,0,0-2-2.32ZM37.75,43.51h-13L21.23,25.12H40.9Z" fill="#2684ff"/>
+      <path id="Path_17" data-name="Path 17" d="M59.67,25.12H40.9L37.75,43.51h-13L9.4,61.73a2.71,2.71,0,0,0,1.75.66H51.89a2,2,0,0,0,2-1.68Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

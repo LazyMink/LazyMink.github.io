@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.739" height="25" viewBox="0 0 25.739 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.98" y1="0.002" x2="0.601" y2="0.419" gradientUnits="objectBoundingBox">
+      <stop offset="0.176" stop-color="#0052cc"/>
+      <stop offset="1" stop-color="#2684ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.006" y1="0.003" x2="0.566" y2="0.46" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="logo-gradient-blue-jira" transform="translate(0 -3)">
+    <g id="Icon">
+      <path id="Vector" d="M24.664,3H12.26a5.521,5.521,0,0,0,5.592,5.432h2.294v2.124a5.521,5.521,0,0,0,5.593,5.432V4.045A1.041,1.041,0,0,0,24.664,3Z" fill="#2684ff"/>
+      <path id="Vector_2" d="M18.534,8.989H6.13a5.521,5.521,0,0,0,5.592,5.432h2.294v2.159a5.521,5.521,0,0,0,5.592,5.432V10.033A1.063,1.063,0,0,0,18.534,8.989Z" fill="url(#linear-gradient)"/>
+      <path id="Vector_3" d="M12.4,15.012H0a5.521,5.521,0,0,0,5.592,5.432H7.887v2.124A5.521,5.521,0,0,0,13.479,28V16.057A1.063,1.063,0,0,0,12.4,15.012Z" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
